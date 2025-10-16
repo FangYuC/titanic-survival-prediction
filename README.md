@@ -8,7 +8,7 @@ A machine learning project predicting survival on the Titanic using passenger da
 - Features include: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 
 ### 💻 Notebook
-All code and analysis is in [notebook.ipynb](Titanic.ipynb):
+All code and analysis is in [Titanic.ipynb](Titanic.ipynb):
 - Data cleaning & feature engineering
 - Exploratory Data Analysis (EDA)
 - Model training: Logistic Regression, Random Forest, Decision Tree, KNN, LinearSVC
