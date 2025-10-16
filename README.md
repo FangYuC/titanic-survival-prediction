@@ -5,7 +5,7 @@ A machine learning project predicting survival on the Titanic using passenger da
 
 ### 📊 Dataset
 - Source: Kaggle Titanic Dataset
-- Features include: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
+- Features include: Pclass, Sex, Age, SibSp, Parch, Fare, honorific
 
 ### 💻 Notebook
 All code and analysis is in [Titanic.ipynb](Titanic.ipynb):
